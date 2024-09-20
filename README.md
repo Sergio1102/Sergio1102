@@ -5,6 +5,13 @@
 <br>Sou apaixonado por boas conversas e novos desafios, e alguns hobbies que gosto são músicas, livros, video-games e desenho.
 </p>
 
+<div>
+  <a href="https://github.com/Sergio1102/Sergio1102">
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Sergio1102&show_icons=true&theme=merko">
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergio1102&layout=compact&langs_count=6&theme=merko">
+  </a>
+</div>
+
 #### Atualmente estudando:
 
 <div style="display: inline_block">
@@ -21,5 +28,5 @@
 <div>
 <a href="https://instagram.com/ss_vinicius11/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://discord.com/users/260547366635962378" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-<a href = "[mailto:sj.vinicius2003@gmail.com](mailto:sj.vinicius2003@gmail.com)"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:sj.vinicius2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
