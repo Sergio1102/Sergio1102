@@ -2,7 +2,7 @@
 
 <p align= "justify">
   Um viciado em aprender coisas novas, vim parar na computação graças a um convite no ensino médio para o grupo de robótica que faço parte até hoje, o GREP - Senhor do Bonfim/BA (Grupo de Robotica Educacional do Piemonte Norte do Itapicuru-BA). Hoje estou cursando Licenciatura em Ciências da Computação (LCC) alimentando o gosto que tomei tanto pela robótica, como pela automação e a programação.
-<br>Sou apaixonado por boas conversas e novos desafios, e alguns hobbies que gosto são músicas, livros, video-games e desenho.
+<br>Sou apaixonado por boas conversas e novos desafios, e alguns hobbies que gosto são músicas, livros e video-games.
 </p>
 
 <div>
